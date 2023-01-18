@@ -11,13 +11,13 @@
 
 pip install request
 
-![gambar1](gambar/gambaruy1.png)
+![gambar1](gambar/q1.png)
 
 # Instal Library bs4
 
 - Ketika kita ingin menginstal nya cukup menggunakan perintah seperti di bawah ini
 
-![gambar1](gambar/gambaruy8.png)
+![gambar1](gambar/q6.png)
 
 # Instal Library BeautifulSoup4
 
@@ -25,18 +25,18 @@ pip install request
 
 pip install BeautifulSoup4
 
-![gambar1](gambar/gambaruy2.png)
+![gambar1](gambar/q4.png)
 
 # Instal Library Pandas
 
 - ketika kita ingin menginstal nya cukup menggunakan perintah seperti dibawah ini
 
-![gambar1](gambar/gambaruy3.png)
+![gambar1](gambar/q5.png)
 
 - sebelum menjalankan program utama kita harus menggunakan perintah seperti di bawah ini
 
-![gambar1](gambar/gambaruy4.png)
+![gambar1](gambar/q2.png)
 
 # HASIL
 
-![gambar1](gambar/gambaruy7.png)
+![gambar1](gambar/q3.png)
